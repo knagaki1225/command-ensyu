@@ -1,10 +1,10 @@
-#command-ensyu
+# command-ensyu
 
-##Overview
->Source code that can calculate BMI writte by java.
+## Overview
+> Source code that can calculate BMI writte by java.
 
-##Usage
->input height and weight only
+## Usage
+> input height and weight only
 
-###e-mail
->k.nagaki.sys23@morijyobi.ac.jp
+### e-mail
+> k.nagaki.sys23@morijyobi.ac.jp
